@@ -1,0 +1,15 @@
+{
+  "version": "1.0.72",
+  "project": {
+    "name": "claude_flow1",
+    "type": "claude-flow",
+    "created": "2025-07-07T06:57:52.308Z"
+  },
+  "features": {
+    "swarm": true,
+    "sparc": true,
+    "memory": true,
+    "terminal": true,
+    "mcp": true
+  }
+}
